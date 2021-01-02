@@ -91,18 +91,18 @@
    }
 }
 
-@media(max-width:400px){
+@media(max-width:450px){
     .pro-heading{
-        font-size:20px;
+        font-size:30px;
       }
        .pro-text{
-        font-size:10px;
+        font-size:13px;
         }
         .pro-btn{
-            font-size:10px;
+            font-size:15px;
           }
 
           .card-view-btn{
-            font-size:10px;
+            font-size:15px;
           }     
 }

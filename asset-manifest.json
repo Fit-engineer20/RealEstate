@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RealEstate/static/css/main.3c6dbe7f.chunk.css",
+    "main.js": "/RealEstate/static/js/main.5d81bd87.chunk.js",
+    "main.js.map": "/RealEstate/static/js/main.5d81bd87.chunk.js.map",
+    "runtime-main.js": "/RealEstate/static/js/runtime-main.78082a2b.js",
+    "runtime-main.js.map": "/RealEstate/static/js/runtime-main.78082a2b.js.map",
+    "static/js/2.1502a484.chunk.js": "/RealEstate/static/js/2.1502a484.chunk.js",
+    "static/js/2.1502a484.chunk.js.map": "/RealEstate/static/js/2.1502a484.chunk.js.map",
+    "static/js/3.46ae002b.chunk.js": "/RealEstate/static/js/3.46ae002b.chunk.js",
+    "static/js/3.46ae002b.chunk.js.map": "/RealEstate/static/js/3.46ae002b.chunk.js.map",
+    "index.html": "/RealEstate/index.html",
+    "static/css/main.3c6dbe7f.chunk.css.map": "/RealEstate/static/css/main.3c6dbe7f.chunk.css.map",
+    "static/js/2.1502a484.chunk.js.LICENSE.txt": "/RealEstate/static/js/2.1502a484.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78082a2b.js",
+    "static/js/2.1502a484.chunk.js",
+    "static/css/main.3c6dbe7f.chunk.css",
+    "static/js/main.5d81bd87.chunk.js"
+  ]
+}

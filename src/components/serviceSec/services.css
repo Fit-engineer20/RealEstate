@@ -1,0 +1,83 @@
+
+.serv-head{
+    text-align:center;
+    margin-top:70px;
+}
+.icon{
+    margin-left:1rem;
+    margin-top:2rem;
+    color:#ffb606;
+    font-size:50px;
+}
+.card-text{
+    font-size:larger;
+    margin:20px auto;
+    color:#898b8a;
+}
+.card-title{
+    letter-spacing: 3px;
+    margin:5px auto;
+}
+.serv-hr{
+    width:10%;
+    margin:auto;
+    margin-top:30px;
+    border-top: 2px solid;
+    border-top-color: #000000;
+    background-color: transparent;
+    opacity:1;
+}
+.heading{
+    color:#ffb606;
+}
+.head-text{
+    color:#898b8a;
+    font-family: 'Lato', sans-serif;
+}
+.serv-card{
+    border-bottom:7px solid #ffb606;
+    margin-top:70px;
+    margin-bottom:70px;
+    border-radius:5%;
+}
+
+@media(max-width:900px){
+    .serv-head{
+        text-align:center;
+        margin-top:40px;
+        margin-bottom:40px;
+    }
+    .icon{
+        font-size:30px;
+    } 
+    .serv-card{
+        margin-top:0;
+        margin-bottom:50px;
+    }
+    .card-title{
+        font-size:18px;
+    }
+    .card-text{
+        font-size:13px;
+        margin-top:10px;
+    }
+}
+
+@media(max-width:450px){
+    .heading{
+        font-size:20px;
+    }
+    .head-text{
+        font-size:10px;
+    }
+    .serv-hr{
+        margin-top:20px;
+    }
+    .card-title{
+        font-size:13px;
+    }
+    .card-text{
+        font-size:10px;
+        margin-top:10px;
+    }
+}

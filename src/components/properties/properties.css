@@ -1,0 +1,108 @@
+.pro-div{
+    padding:3rem 7rem;
+}
+.pro-heading{
+    color:#ffb606;
+}
+.pro-text{
+    color:#898b8a;
+    font-family: 'Lato', sans-serif;
+    font-size:larger;
+}
+.pro-sub-div{
+    position:relative;
+}
+.pro-btn{
+    position:absolute;
+    top:20px;
+    right:0;
+}
+.pro-card{
+    margin-top:20px;
+    box-shadow: 0 0 3px grey ;
+}
+
+.pro-row{
+     margin-top:50px; 
+     margin-bottom:50px;
+}
+.pro-content{
+   padding:20px;
+}
+.pro-icons{
+    color:#898b8a;
+}
+.last-two{
+    margin-left:10px;
+}
+.card-view-btn{
+    color:#ffb606;
+    border-color:#ffb606;
+}
+.card-view-btn:hover{
+    background-color:#ffb606;
+    color:#f5f4f4;
+    border-color:#ffb606;
+}
+.pro-image{
+    height:300px;
+}
+.pro-title{
+    font-family: 'Staatliches', cursive;
+    letter-spacing:5px;
+}
+.pro-hr{
+    width:10%;
+    margin-top:30px;
+    border-top: 2px solid;
+    border-top-color: #000000;
+    background-color: transparent;
+    opacity:1;
+}
+
+@media(max-width:900px){
+    .pro-div{
+        padding:1rem 2rem;
+    }
+
+    .pro-image{
+        height:200px;
+    }
+    .pro-icons{
+        display:block;
+    }
+    .last-two{
+        margin-left:0;
+        margin-top:5px;
+    }
+    .pro-sub-div{
+        text-align:center;
+    }
+    .pro-btn{
+        position:unset;
+        margin-top:30px;
+    }
+    .pro-row{
+        margin-top:30px; 
+        margin-bottom:20px;
+   }
+   .pro-hr{
+    margin:auto;
+   }
+}
+
+@media(max-width:400px){
+    .pro-heading{
+        font-size:20px;
+      }
+       .pro-text{
+        font-size:10px;
+        }
+        .pro-btn{
+            font-size:10px;
+          }
+
+          .card-view-btn{
+            font-size:10px;
+          }     
+}
